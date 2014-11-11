@@ -1,3 +1,9 @@
+/*
+Title : exempleTimer
+Programmed by : Hugo Laliberté
+Last Modification : 11/11/2014
+*/
+
 import java.util.Timer;
 import java.util.TimerTask;
 
